@@ -32,7 +32,7 @@ else:
 
      
 
-'''i = 5       
+i = 5       
 for x in range(i):
         x+=1
-        print ("*"*x)'''
+        print ("*"*x)
