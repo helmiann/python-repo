@@ -36,3 +36,5 @@ i = 5
 for x in range(i):
         x+=1
         print ("*"*x)
+
+print(9)
