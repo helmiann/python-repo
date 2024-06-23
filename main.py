@@ -1,4 +1,4 @@
-
+'''
 def area (dimension1,dimension2,shape="triangle"):
     if shape == "rectangle":
     #base is length height is width
@@ -35,5 +35,7 @@ else:
 i = 5       
 for x in range(i):
         x+=1
-        print ("*"*x)
+        print ("*"*x)'''
 
+print(9)
+print('danot print 9')
