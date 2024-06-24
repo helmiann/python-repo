@@ -30,6 +30,9 @@ else:
     y=int(input("masukkan angka yang ingin diputar : "))
     print(loop(y))
 
+
+prin ("x")
+
      
 
 i = 5       
