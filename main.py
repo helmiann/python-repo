@@ -30,12 +30,11 @@ else:
     y=int(input("masukkan angka yang ingin diputar : "))
     print(loop(y))
 
-
-prin ("x")
-
      
 
 i = 5       
 for x in range(i):
         x+=1
         print ("*"*x)
+
+print ("x")
